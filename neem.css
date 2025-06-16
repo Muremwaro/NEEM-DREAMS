@@ -1,0 +1,44 @@
+.topnav{
+    background-color: rgb(104, 143, 47);
+    overflow: hidden;
+}
+body{
+    background-color: rgba(127, 226, 213, 0.548);
+    font-style: arial;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.myhead {
+    float:left;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(187, 179, 179);
+
+}
+.myhead:hover{ 
+    background-color: black ; 
+    color :aqua;
+    text-align: center;
+
+}
+h1{
+    text-align:center;
+    display: block;
+}
+ .flavoursimg {
+align-items: center;
+text-align: center;
+}
+.rowimages {
+    display:flex;
+     gap: 10px;
+     text-align: center;
+}
+.myform{
+    text-align: center;
+    display: block;
+
+    
+}
